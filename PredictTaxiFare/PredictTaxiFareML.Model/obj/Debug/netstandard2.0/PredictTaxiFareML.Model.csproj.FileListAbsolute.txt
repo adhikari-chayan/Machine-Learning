@@ -1,0 +1,9 @@
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\bin\Debug\netstandard2.0\PredictTaxiFareML.Model.deps.json
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\bin\Debug\netstandard2.0\PredictTaxiFareML.Model.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\bin\Debug\netstandard2.0\PredictTaxiFareML.Model.pdb
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\obj\Debug\netstandard2.0\PredictTaxiFareML.Model.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\obj\Debug\netstandard2.0\PredictTaxiFareML.Model.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\obj\Debug\netstandard2.0\PredictTaxiFareML.Model.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\obj\Debug\netstandard2.0\PredictTaxiFareML.Model.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.Model\obj\Debug\netstandard2.0\PredictTaxiFareML.Model.pdb

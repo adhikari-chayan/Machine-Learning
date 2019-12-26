@@ -1,0 +1,14 @@
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.deps.json
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.runtimeconfig.json
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.runtimeconfig.dev.json
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.pdb
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.Model.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\bin\Debug\netcoreapp2.1\PredictTaxiFareML.Model.pdb
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.csproj.CopyComplete
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\PredictTaxiFare\PredictTaxiFareML.ConsoleApp\obj\Debug\netcoreapp2.1\PredictTaxiFareML.ConsoleApp.pdb
