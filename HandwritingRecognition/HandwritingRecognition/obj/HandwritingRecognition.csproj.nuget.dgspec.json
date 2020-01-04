@@ -1,0 +1,167 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognition\\HandwritingRecognition.csproj": {}
+  },
+  "projects": {
+    "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\HandwritingRecognitionML.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\HandwritingRecognitionML.Model.csproj",
+        "projectName": "HandwritingRecognitionML.Model",
+        "projectPath": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\HandwritingRecognitionML.Model.csproj",
+        "packagesPath": "C:\\Users\\u0169352\\.nuget\\packages\\",
+        "outputPath": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\u0169352\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\My Stuff\\Barossa\\General\\Hackathon": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognition\\HandwritingRecognition.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognition\\HandwritingRecognition.csproj",
+        "projectName": "HandwritingRecognition",
+        "projectPath": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognition\\HandwritingRecognition.csproj",
+        "packagesPath": "C:\\Users\\u0169352\\.nuget\\packages\\",
+        "outputPath": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognition\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\u0169352\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\My Stuff\\Barossa\\General\\Hackathon": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\HandwritingRecognitionML.Model.csproj": {
+                "projectPath": "C:\\My Stuff\\Practise Projects\\Machine Learning for dot net developers\\C# Machine Learning Projects\\HandwritingRecognition\\HandwritingRecognitionML.Model\\HandwritingRecognitionML.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.ML": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

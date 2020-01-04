@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandwritingRecognition", "HandwritingRecognition\HandwritingRecognition.csproj", "{5AE16D7F-D81F-47A5-BBD2-B6D9FC5FA0B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandwritingRecognitionML.Model", "HandwritingRecognitionML.Model\HandwritingRecognitionML.Model.csproj", "{7261F45B-8E5D-4ACF-A4AC-B592EBC20BB3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandwritingRecognitionML.ConsoleApp", "HandwritingRecognitionML.ConsoleApp\HandwritingRecognitionML.ConsoleApp.csproj", "{4F809671-0411-44DC-BB01-FDD1D42D61E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE16D7F-D81F-47A5-BBD2-B6D9FC5FA0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE16D7F-D81F-47A5-BBD2-B6D9FC5FA0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AE16D7F-D81F-47A5-BBD2-B6D9FC5FA0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AE16D7F-D81F-47A5-BBD2-B6D9FC5FA0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7261F45B-8E5D-4ACF-A4AC-B592EBC20BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7261F45B-8E5D-4ACF-A4AC-B592EBC20BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7261F45B-8E5D-4ACF-A4AC-B592EBC20BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7261F45B-8E5D-4ACF-A4AC-B592EBC20BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F809671-0411-44DC-BB01-FDD1D42D61E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F809671-0411-44DC-BB01-FDD1D42D61E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F809671-0411-44DC-BB01-FDD1D42D61E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F809671-0411-44DC-BB01-FDD1D42D61E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE80C25D-11A9-4ABC-A737-51196A820A58}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\bin\Debug\netcoreapp3.0\MLModel.zip
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\bin\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.deps.json
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\bin\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\bin\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.pdb
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\obj\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.csprojAssemblyReference.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\obj\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.AssemblyInfoInputs.cache
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\obj\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.AssemblyInfo.cs
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\obj\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.dll
+C:\My Stuff\Practise Projects\Machine Learning for dot net developers\C# Machine Learning Projects\HandwritingRecognition\HandwritingRecognitionML.Model\obj\Debug\netcoreapp3.0\HandwritingRecognitionML.Model.pdb
